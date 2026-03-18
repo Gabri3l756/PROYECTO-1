@@ -27,7 +27,23 @@ def volver_a_carga():
 # PANTALLA 1: CARGA DE DATOS
 # ==========================================
 if st.session_state.vista == 'carga':
-    st.title("1. Sube tus datos")
+    st.title("📊 Control de Presupuesto e Ingresos")
+    
+    # --- DESCRIPCIÓN PRINCIPAL ---
+    st.markdown("""
+    Bienvenido a tu herramienta de análisis financiero. 
+    
+    Este tablero interactivo te permite:
+    * 📈 **Monitorear** la evolución de tus ingresos frente a tu presupuesto.
+    * 🎯 **Medir** el % de cumplimiento de tus metas financieras.
+    * 📊 **Analizar** la distribución de tus ingresos por categoría con gráficos dinámicos.
+    
+    Para comenzar a explorar tu tablero, sube tu base de datos a continuación.
+    """)
+    
+    st.info("💡 **Formato requerido:** Tu archivo CSV debe contener exactamente estas columnas: `id`, `category`, `descripcion`, `income`, `budget`, `date`.")
+    st.write("---") 
+    # ------------------------------
 
     # Carga de datos
     file = st.file_uploader("Sube tu archivo CSV con tus ingresos y gastos", type=["csv"])
