@@ -1,0 +1,1001 @@
+id,category,descripcion,income,budget,date
+1,Electronics,Portable USB-C Monitor,$868.72,$221.76,2/20/2025
+2,Home,LED Strip Lights Kit,$964.24,$325.60,10/22/2025
+3,Food - Meat Substitutes,Vegetarian Sausage Links,$433.21,$574.14,2/15/2026
+4,Toys,Jigsaw Puzzle,$90.51,$756.52,12/24/2024
+5,Food - Frozen Foods,Garlic Herb Grilled Chicken,$324.56,$295.84,6/18/2025
+6,Food - Desserts,Rice Pudding,$174.74,$527.98,2/12/2026
+7,Food - Condiments,Fire Roasted Salsa,$224.60,$134.91,3/5/2024
+8,Food - Frozen Foods,Vegetable Curry,$829.35,$860.75,2/21/2024
+9,Home,Fall-Themed Table Runner,$849.34,$734.44,5/3/2025
+10,Food - Cereal,Chocolate Hazelnut Granola,$871.55,$103.75,8/7/2024
+11,Food - Frozen Foods,Sweet Potato Mash,$762.22,$655.95,1/30/2024
+12,Food - Dairy,Sliced Cheese,$492.87,$330.73,6/1/2025
+13,Food - Meat Substitutes,Vegetarian Sausage Links,$122.87,$944.68,3/18/2025
+14,Food - Prepared Foods,Spicy Vegetable Sushi Rolls,$23.23,$791.62,2/29/2024
+15,Home Appliances,Compact Refrigerator,$23.82,$695.96,10/15/2024
+16,Food - Frozen Meals,Beef Stroganoff Meal Kit,$696.21,$835.14,12/15/2025
+17,Kitchen,Aeropress Coffee Maker,$368.05,$116.53,6/16/2025
+18,Outdoor,Inflatable Pool Float,$313.07,$478.49,10/5/2024
+19,Food - Grains,Basmati Rice,$748.26,$39.08,11/4/2024
+20,Travel,Travel Pillow,$774.97,$928.23,7/19/2025
+21,Outdoor,Portable Solar Generator,$805.53,$378.02,7/28/2024
+22,Garden,Multi-Purpose Plant Care Tool,$583.28,$566.94,2/18/2024
+23,Garden,DIY Organic Gardening Kit,$293.85,$249.77,5/24/2025
+24,Pets,Pet Grooming Brush,$384.96,$140.15,2/26/2026
+25,Food - Condiments,Sweet BBQ Dipping Sauce,$44.81,$27.67,8/18/2025
+26,Food - Spices,Organic Italian Seasoning,$51.72,$678.13,8/6/2024
+27,Food - Produce,Chickpea Salad Deluxe,$539.94,$965.93,9/28/2025
+28,Food - Bakery,Hot Dog Buns,$193.50,$744.93,4/30/2025
+29,Food - Snacks,Honey Almond Granola Bars,$992.71,$713.97,1/17/2025
+30,Food - Breakfast,Apple Cinnamon Granola,$403.28,$692.50,7/26/2024
+31,Food - Dairy,Sliced Provolone Cheese,$237.88,$96.53,12/24/2024
+32,Outdoor,Electric Air Pump,$419.21,$26.19,2/25/2026
+33,Food - Seafood,Lemon Dill Salmon,$553.71,$220.58,3/15/2026
+34,Outdoor,LED Flashlight,$403.14,$28.47,2/29/2024
+35,Food - Grains,Couscous,$831.08,$481.29,12/13/2024
+36,Food - Bakery,Artisan Bread,$182.02,$765.58,8/26/2024
+37,Food - Baking,Gluten-Free Brownies,$383.10,$936.24,8/7/2025
+38,Art Supplies,Crafting Kit,$462.65,$760.21,3/23/2024
+39,Food - Dairy,Whipped Cream Cheese,$42.45,$777.79,1/28/2026
+40,Food - Frozen,Strawberry Banana Smoothie Pack,$271.37,$489.64,6/13/2025
+41,Food - Snacks,Dark Chocolate Covered Raisins,$900.11,$760.53,1/8/2024
+42,Toys,Kids' STEM Robotics Kit,$233.36,$262.89,4/1/2025
+43,Storage,Memory Card,$70.95,$627.02,1/28/2026
+44,Fitness,Fitbit Activity Tracker,$989.21,$574.15,8/14/2024
+45,Photography,Smartphone Photography Ring Light,$276.02,$614.56,12/5/2025
+46,Pets,Pet Grooming Brush,$562.37,$63.41,12/11/2025
+47,Food - Seafood,Smoked Salmon,$365.22,$576.06,9/26/2025
+48,Food - Breakfast,Vanilla Almond Granola,$429.25,$91.48,11/27/2025
+49,Food - Snacks,Fruit and Nut Medley,$598.30,$475.46,3/9/2026
+50,Food - Dairy Alternatives,Coconut Cashew Yogurt,$367.03,$727.10,10/12/2024
+51,Clothing - Loungewear,Terry Cloth Robe,$251.39,$524.44,8/12/2025
+52,Food - Frozen Foods,Crispy Potato Tots,$917.59,$318.27,4/16/2024
+53,Kitchen,Tea Infuser,$766.24,$613.69,8/6/2024
+54,Crafts,DIY Candle Making Kit,$105.49,$412.15,1/24/2024
+55,Food - Cooking Essentials,Vegetable Stock,$920.00,$654.46,5/6/2025
+56,Food - Frozen Foods,Berry Smoothie Mix,$26.83,$323.85,3/13/2024
+57,Health,Infrared Thermometer,$347.10,$765.18,6/24/2025
+58,Food - Snacks,Almond Crunch Granola Bars,$350.91,$192.26,8/19/2024
+59,Food - Grains,Couscous,$178.00,$723.12,3/29/2024
+60,Food - Beverages,Ethically-Sourced Coffee Beans,$529.78,$76.87,10/2/2025
+61,Kitchen,Magic Color-Changing Mug,$117.87,$278.99,5/30/2024
+62,Food - Condiments,Sweet Chili Dipping Sauce,$162.30,$777.56,7/22/2024
+63,Clothing - Loungewear,Cotton Pajama Set,$291.87,$757.22,4/2/2024
+64,Food - Frozen Foods,Veggie Lovers Pizza,$298.65,$153.65,4/10/2025
+65,Kitchen,Juice Extractor,$499.88,$951.75,7/9/2025
+66,Outdoor,Rolling Cooler,$991.88,$406.82,12/19/2024
+67,Toys,Puzzle Mat,$600.97,$729.79,11/17/2024
+68,Outdoor,LED Flashlight,$11.01,$67.70,2/5/2025
+69,Kitchen,Electric Egg Cooker,$27.61,$341.07,2/18/2025
+70,Food - Snacks,Coconut Granola,$820.69,$993.76,5/17/2024
+71,Food - Dairy Alternatives,Coconut Cashew Yogurt,$623.04,$736.31,12/28/2025
+72,Kitchen,Mini Food Processor,$285.23,$473.60,2/3/2025
+73,Fitness,Eco-Friendly Yoga Blocks,$984.01,$514.61,7/21/2024
+74,Food - Snacks,Savory Rice Cakes,$404.86,$58.05,5/27/2025
+75,Home,Wall Calendar,$91.77,$856.41,1/31/2025
+76,Outdoor,Outdoor Inflatable Pool,$546.96,$539.15,4/14/2025
+77,Food - Frozen Foods,Frozen Edamame,$930.35,$262.06,2/23/2026
+78,Fitness,Yoga Blocks,$855.20,$385.15,7/22/2024
+79,Electronics,Wireless HDMI Transmitter,$556.35,$587.06,10/25/2024
+80,Food - Salads,Mediterranean Couscous Salad,$971.75,$896.72,7/8/2024
+81,Food - Canned Goods,Mushroom Soup (canned),$44.05,$21.33,12/9/2024
+82,Food - Bakery,Cinnamon Raisin Bagels,$822.17,$62.85,3/14/2026
+83,Food - Baking,Samoas Cookie Mix,$974.07,$879.95,8/23/2024
+84,Clothing - Bottoms,A-Line Skirt,$911.67,$686.62,11/6/2025
+85,Food - Snacks,Flavored Rice Cakes,$319.52,$537.93,6/25/2024
+86,Food - Beverages,Honey Lemon Tea,$542.03,$68.45,1/7/2025
+87,Food - Dairy,Raspberry Vanilla Greek Yogurt,$413.76,$846.16,9/12/2024
+88,Kitchen,Kitchen Knife Sharpening System,$272.78,$413.02,9/21/2025
+89,Food - Snacks,Honey Graham Crackers,$285.61,$802.10,9/7/2025
+90,Food - Spices,Garam Masala Spice Blend,$952.19,$598.81,5/16/2024
+91,Food - Prepared Foods,Chicken Fajita Kit,$953.63,$655.96,4/10/2025
+92,Food - Baking,Cacao Powder,$254.92,$262.99,5/9/2024
+93,Food - Frozen Foods,Buffalo Cauliflower Wings,$237.45,$779.50,8/10/2025
+94,Accessories,Biodegradable Phone Case,$876.27,$51.96,12/21/2025
+95,Clothing - Loungewear,Terry Cloth Robe,$764.41,$888.08,1/24/2026
+96,Toys,Kids' Building Blocks,$175.89,$238.08,4/11/2025
+97,Food - Spices,Steak Seasoning Rub,$551.06,$819.55,7/30/2025
+98,Kitchen,Air Fryer Oven,$89.96,$140.83,11/4/2025
+99,Apps,Digital Bullet Journal,$598.20,$243.41,3/20/2025
+100,Accessories,Ultra-Thin Laptop Sleeve,$264.46,$566.45,9/20/2024
+101,Food - Pasta,Pasta (Fusilli),$311.27,$295.04,4/10/2025
+102,Health,Essential Oil Roller Bottles,$392.06,$778.81,6/30/2025
+103,Kitchen,Stainless Steel Mixing Bowls,$605.05,$198.29,11/29/2024
+104,Food - Condiments,Pesto Genovese,$606.68,$13.85,10/16/2024
+105,Food - Spreads,Chocolate Hazelnut Spread,$644.05,$648.13,1/8/2024
+106,Clothing - Shoes,Comfort Flats,$585.61,$987.10,5/7/2024
+107,Outdoor,Portable Water Filter,$229.29,$823.04,2/13/2024
+108,Health,Self-Massaging Pillow,$665.49,$943.86,3/11/2026
+109,Pets,Pet Camera with Treat Dispenser,$364.80,$102.55,11/9/2025
+110,Electronics,Smartphone Gimbal,$231.48,$914.11,7/4/2024
+111,Kitchen,Electric Hot Pot,$47.68,$127.83,8/21/2024
+112,Outdoor,Portable Hammock,$671.25,$843.17,8/18/2024
+113,Food - Canned Goods,Mushroom Soup (canned),$169.84,$198.71,10/30/2025
+114,Photography,Smartphone Gimbal Stabilizer,$253.02,$226.63,7/26/2025
+115,Food - Frozen Desserts,Organic Vanilla Bean Ice Cream,$824.31,$937.82,12/13/2024
+116,Food - Condiments,Pesto Genovese,$216.34,$964.23,10/7/2024
+117,Music,Guitar Tuner,$593.17,$797.64,1/25/2026
+118,Home,Reversible Comforter Set,$290.82,$497.44,3/29/2024
+119,Kitchen,Dual Function Electric Skillet,$888.78,$558.06,3/24/2024
+120,Food - Snacks,Dark Chocolate Covered Pretzels,$983.53,$958.20,7/8/2024
+121,Fitness,Fruit Infuser Water Bottle,$303.54,$709.69,5/8/2025
+122,Food - Salads,Mediterranean Couscous Salad,$414.25,$465.58,11/23/2025
+123,Food - Seafood,Frozen Salmon Filets,$975.20,$91.42,11/30/2024
+124,Health,Wrist Support Brace,$667.46,$48.49,4/5/2024
+125,Outdoor,Silicone Wine Glasses,$575.70,$353.56,1/16/2026
+126,Health,Foot Massager Machine,$231.10,$30.24,4/5/2025
+127,Food - Snacks,Black Bean Salsa,$690.56,$950.89,9/7/2024
+128,Food - Snacks,Pecan Nuts,$236.82,$998.77,9/25/2024
+129,Food - Snacks,Cinnamon Roll Protein Bar,$151.79,$935.92,9/7/2025
+130,Food - Breakfast Foods,Almond Coconut Granola,$62.86,$725.33,1/1/2024
+131,Kitchen,Ceramic Bakeware Set,$51.94,$230.24,11/14/2025
+132,Food - Frozen Meals,Stuffed Bell Peppers,$24.98,$917.40,9/18/2025
+133,Food - Frozen Foods,Vegetable Pizza Rolls,$14.12,$565.57,11/1/2024
+134,Kitchen,Reusable Silicone Food Storage Bags,$239.46,$947.07,8/26/2025
+135,Food - Grab-and-Go,Sesame Noodles,$265.70,$348.35,6/6/2024
+136,Kitchen,Pressure Cooker,$611.17,$836.06,2/11/2025
+137,Food - Breakfast,Pumpkin Waffles,$75.92,$343.27,8/9/2025
+138,Gaming,Gaming Headset,$146.88,$824.68,3/12/2025
+139,Food - Grains,Wild Rice Pilaf,$403.34,$790.30,4/24/2025
+140,Kitchen,Silicone Stretch Lids,$228.16,$605.50,10/9/2024
+141,Food - Meat,Honey Mustard Chicken Breasts,$962.91,$783.66,5/3/2024
+142,Art Supplies,Digital Drawing Tablet,$591.18,$826.55,1/24/2024
+143,Home,Smart Air Purifier,$747.63,$639.22,1/10/2025
+144,Food - Frozen Foods,Vanilla Ice Cream,$637.93,$528.51,3/9/2026
+145,Food - Snacks,Savory Snack Mix,$605.61,$461.62,5/29/2025
+146,Pets,Pet Hair Removal Roller,$936.74,$657.94,1/10/2024
+147,Home,Wall-Mounted Bookshelf,$378.90,$263.40,2/23/2026
+148,Food - Snacks,Honey Roasted Chickpeas,$867.92,$787.91,4/1/2024
+149,Food - Bakery,Jalapeño Cornbread,$315.12,$539.03,3/13/2024
+150,Food - Salads,Quinoa & Black Bean Salad,$155.28,$213.43,7/22/2025
+151,Accessories,Heavy-Duty Utility Tote,$382.41,$201.89,4/9/2025
+152,Food - Marinades,Garlic Herb Marinade,$610.16,$539.39,1/2/2024
+153,Outdoor,Fishing Tackle Box,$937.59,$537.72,12/5/2025
+154,Food - Nuts,Walnut Halves,$378.56,$814.82,10/18/2025
+155,Food - Meat,Lemon Herb Chicken,$185.43,$231.24,3/3/2026
+156,Safety,Safety Goggles,$394.39,$593.45,9/21/2024
+157,Food - Frozen,Vegetable and Cheese Quesadillas,$983.09,$883.53,12/15/2025
+158,Food - Grains,Herbed Couscous,$418.58,$929.33,2/27/2026
+159,Electronics,Portable USB-C Monitor,$852.13,$738.69,1/24/2026
+160,Office,Customizable Wall Calendar,$993.05,$297.51,9/8/2025
+161,Pets,Pet Grooming Brush,$399.91,$399.41,10/18/2024
+162,Health,Elderberry Syrup Kit,$219.57,$90.31,5/4/2025
+163,Accessories,Kids' Dinosaur-Themed Lunchbox,$565.35,$884.93,7/11/2024
+164,Food - Baking & Cooking,Coconut Cream,$75.99,$212.62,2/18/2025
+165,Food - Snacks,Caramel Apple Chips,$406.54,$86.95,11/14/2024
+166,Pets,Dog Walking Waist Pack,$197.73,$496.99,7/10/2024
+167,Kitchen,Electric Rice Cooker,$626.44,$751.74,10/21/2024
+168,Food - Bakery,Cranberry Almond Cookies,$597.15,$954.99,9/8/2025
+169,Food - Spices,Chili Powder,$957.55,$265.32,6/5/2024
+170,Accessories,Heavy-Duty Utility Tote,$848.89,$984.50,1/29/2024
+171,Garden,Garden Tool Belt,$32.69,$427.00,3/2/2026
+172,Food - Baking & Cooking,Almond Flour Tortillas,$912.42,$695.51,2/8/2026
+173,Food - Snacks,Cinnamon Sugar Tortilla Chips,$442.35,$888.56,6/12/2024
+174,Food - Canned Goods,Tomato Sauce,$348.47,$654.70,2/21/2026
+175,Outdoor,Outdoor Camping Hammock,$185.98,$834.60,1/30/2025
+176,Food - Canned Goods,Pineapple Rings,$902.38,$332.38,1/23/2025
+177,Garden,Indoor Plants,$234.16,$74.81,11/4/2025
+178,Health,Foot Massager,$322.59,$356.73,11/24/2025
+179,Kitchen,Non-Stick Baking Sheet,$890.87,$425.18,4/9/2025
+180,Pets,Dog Car Seat Cover,$37.08,$622.62,11/1/2024
+181,Food - Meat,Honey Mustard Chicken Breasts,$719.76,$198.72,5/5/2024
+182,Health,Weighted Blanket for Adults,$516.61,$412.71,1/3/2025
+183,Outdoor,Premium Flashlight,$362.81,$614.37,7/15/2024
+184,Art Supplies,Watercolor Paint Set,$34.06,$911.08,7/23/2024
+185,Food - Soups,Savory Pumpkin Soup,$191.08,$598.29,1/31/2026
+186,Automotive,Car Sunshade,$931.63,$794.51,10/25/2024
+187,Pets,Portable Pet Pooper Scooper,$57.56,$50.65,4/20/2024
+188,Beauty,Travel Hair Straightener,$872.07,$889.65,4/21/2025
+189,Clothing - Loungewear,Cotton Pajama Set,$894.34,$699.52,12/2/2024
+190,Home,Memory Foam Pillow,$163.52,$895.47,1/28/2026
+191,Food - Vegetables,Zucchini Noodle Pasta,$273.36,$542.76,3/17/2025
+192,Kitchen,Multi-Function Meat Tenderizer,$722.87,$241.14,1/11/2024
+193,Travel,Compressed Towel Tablets,$62.75,$451.88,10/12/2025
+194,Food - Meat,Teriyaki Chicken Skewers,$808.97,$517.66,11/3/2025
+195,Kitchen,Handmade Wooden Utensil Set,$701.84,$711.69,1/28/2025
+196,Outdoor,Collapsible Folding Chair,$257.83,$86.12,4/18/2024
+197,Clothing,Luxury Bath Robe,$667.67,$618.94,5/25/2025
+198,Food - Condiments,Spicy BBQ Sauce,$795.27,$384.96,8/15/2024
+199,Kitchen,Pasta Maker,$278.32,$717.97,6/16/2025
+200,Crafts,DIY Lip Balm Kit,$206.21,$370.51,10/19/2025
+201,Accessories,Magnetic Phone Case,$734.66,$917.66,8/31/2024
+202,Outdoor,Collapsible Folding Chair,$594.35,$940.49,2/13/2025
+203,Office,Adjustable Standing Desk,$692.68,$492.45,2/3/2024
+204,Home,Decorative Wall Tapestry,$159.97,$651.76,2/20/2025
+205,Toys,Interactive Robot Toy,$609.81,$560.55,5/1/2025
+206,Office,Adjustable Height Standing Desk Converter,$931.02,$488.57,5/12/2024
+207,Food - Spices & Seasonings,Chili Con Carne Mix,$472.04,$679.57,10/19/2025
+208,Food - Meat,Herbed Chicken Breast,$863.41,$351.08,6/25/2025
+209,Food - Condiments,Chocolate Syrup,$572.01,$971.41,7/30/2025
+210,Food - Canned Goods,Organic Tomato Soup,$833.90,$732.41,4/3/2024
+211,Home,Portable Electric Fan,$47.22,$448.93,4/8/2024
+212,Clothing - Dresses,Classic Black Dress,$889.42,$621.48,1/17/2026
+213,Food - Canned Goods,Chili Beans (canned),$872.17,$859.52,11/1/2024
+214,Clothing - Tops,Floral Wrap Top,$668.48,$60.38,11/20/2025
+215,Footwear,Hiking Boots,$447.02,$158.90,8/3/2024
+216,Food - Dairy,Hummus Variety Pack,$621.16,$28.55,4/9/2024
+217,Audio,Bluetooth Shower Speaker,$895.84,$522.58,11/21/2024
+218,Office,Leather Notebook Cover,$839.83,$213.79,2/8/2026
+219,Accessories,Wireless Charging Pad,$279.74,$685.73,2/2/2026
+220,Food - Cheese,Buffalo Stilton Cheese,$167.56,$581.38,8/31/2024
+221,Food - Frozen Foods,Frozen Cauliflower Rice,$767.84,$73.71,3/6/2024
+222,Art Supplies,Sketchbook,$314.33,$354.48,2/20/2024
+223,Outdoor,Collapsible Camping Cup,$131.95,$797.10,1/22/2025
+224,Food - Soups,Savory Pumpkin Soup,$220.64,$477.74,12/26/2025
+225,Art Supplies,Sketchbook,$707.14,$620.15,1/12/2025
+226,Fitness,Adjustable Yoga Mat Strap,$920.33,$335.20,12/26/2025
+227,Home,Wine Decanter,$38.00,$133.97,6/3/2024
+228,Food - Beverages,Kombucha Drink,$337.83,$341.62,3/22/2024
+229,Electronics,Rechargeable Laptop Battery Pack,$448.71,$438.06,10/7/2024
+230,Food - Frozen Food,Mixed Berry Smoothie Pack,$880.67,$823.92,7/3/2024
+231,Kitchen,Personal Blender,$469.14,$183.00,2/10/2024
+232,Clothing - Pants,Faux Leather Leggings,$454.11,$140.00,2/1/2024
+233,Food - Breakfast,Pumpkin Spice Pancake Mix,$378.40,$307.49,11/22/2024
+234,Clothing - Tops,Vintage Graphic Tee,$627.19,$305.74,9/12/2025
+235,Home,Luxury Memory Foam Mattress Topper,$918.34,$886.20,10/24/2024
+236,Food - Sauces,Sriracha Honey Glaze,$272.43,$624.01,3/4/2026
+237,Home,Fleece Throw Blanket,$85.12,$24.47,8/23/2024
+238,Food - Vegetables,Grilled Vegetable Medley,$432.35,$758.07,8/16/2024
+239,Food - Canned Goods,Apple Sauce,$301.16,$387.50,8/15/2025
+240,Fitness,Yoga Blocks,$646.95,$530.74,8/29/2024
+241,Fitness,Fitness Mat,$392.75,$797.63,8/4/2024
+242,Food - Condiments,Zesty Garlic Marinade,$107.87,$897.25,7/18/2024
+243,Office,Customizable Wall Calendar,$739.23,$553.10,3/8/2026
+244,Outdoor,Portable Water Filter,$519.90,$440.17,10/7/2024
+245,Food - Household,Toilet Paper (12 rolls),$946.40,$933.39,7/31/2024
+246,Outdoor,Outdoor Portable Fire Pit,$925.38,$639.36,2/12/2025
+247,Food - Frozen Vegetables,Baked Falafel Balls,$208.79,$580.94,6/30/2024
+248,Food - Condiments,Spicy Kimchi,$923.84,$969.80,3/19/2025
+249,Food - Meat,Honey Garlic Chicken,$120.96,$512.38,8/23/2025
+250,Clothing - Outerwear,Athletic Jogging Jacket,$650.86,$520.40,10/3/2025
+251,Food - Frozen,Vegetable Korma,$888.06,$521.79,12/28/2025
+252,Home Improvement,Non-Toxic Concrete Sealer,$147.01,$374.33,6/8/2025
+253,Food - Condiments,Orange Ginger Vinaigrette,$731.66,$546.21,3/22/2024
+254,Fitness,Collapsible Water Bottle,$114.17,$281.78,4/5/2025
+255,Books,Field Journal,$248.66,$191.38,2/16/2025
+256,Kitchen,Electric Kettle with Temperature Control,$44.87,$372.50,1/28/2026
+257,Office,Safety Pin Dispenser,$786.70,$879.55,12/12/2024
+258,Fitness,Travel Yoga Mat,$457.37,$786.79,4/15/2024
+259,Food - Breakfast,Maple Oatmeal,$10.42,$374.54,6/26/2024
+260,Kitchen,Electric Hot Water Dispenser,$762.96,$359.43,1/29/2025
+261,Food - Canned Goods,Tuna Fish (canned),$51.65,$413.82,6/30/2024
+262,Art Supplies,Art Supplies Organizer,$27.91,$955.11,4/2/2024
+263,Food - Fruits,Sliced Strawberries,$277.68,$194.44,4/28/2024
+264,Food - Prepared Foods,Chickpea Salad,$738.27,$930.06,6/19/2025
+265,Food - Condiments,Sriracha Hot Chili Sauce,$592.09,$47.60,8/21/2024
+266,Food - Snacks,Creamy Avocado Dip,$839.29,$800.65,8/8/2024
+267,Food - Snacks,Pepperoni Pizza Rolls,$516.01,$920.79,11/27/2025
+268,Outdoor,Telescope,$49.80,$646.40,2/23/2024
+269,Food - Seafood,Teriyaki Salmon Fillets,$330.52,$577.52,7/3/2025
+270,Food - Condiments,Italian Herb Balsamic Marinade,$828.83,$618.39,2/5/2026
+271,Outdoor,Outdoor Adventure Backpack,$143.38,$394.30,11/8/2024
+272,Clothing - Activewear,Lightweight Workout Tank,$774.19,$994.90,8/27/2025
+273,Food - Baking,Cinnamon Roll Kit,$164.64,$472.10,9/30/2024
+274,Food - Dairy,Feta Cheese Crumbles,$296.76,$323.42,1/2/2024
+275,Food - Bakery,Cranberry Almond Cookies,$229.44,$81.62,5/15/2024
+276,Music,Electronic Drum Kit,$932.37,$744.70,2/17/2024
+277,Food - Canned Goods,Tuna Fish (canned),$230.88,$548.49,10/30/2025
+278,Food - Canned Goods,Spaghetti Sauce,$470.82,$616.80,12/4/2025
+279,Kitchen,Silicone Baking Mat Set,$867.34,$282.58,8/31/2024
+280,Food - Condiments,Avocado Oil Mayo,$259.31,$846.95,10/18/2025
+281,Outdoor,Window Bird Feeder,$446.00,$694.54,3/20/2024
+282,Clothing - Outerwear,Luxe Velvet Blazer,$23.41,$82.80,1/13/2024
+283,Home,Mesh Laundry Bags Set,$43.18,$716.54,2/26/2024
+284,Food - Desserts,Chocolate Avocado Pudding,$472.89,$693.28,2/1/2024
+285,Electronics,Portable USB-C Monitor,$406.45,$23.44,8/12/2024
+286,Kitchen,Non-Stick Baking Sheet,$866.71,$150.64,3/26/2024
+287,Food - Frozen Foods,Frozen Berry Blend,$989.01,$330.02,3/8/2026
+288,Clothing - Outerwear,Fleece Hoodie,$470.70,$868.83,3/5/2024
+289,Food - Baking Goods,Baking Powder,$67.64,$352.09,11/25/2024
+290,Food - Canned Goods,Classic Beef Chili,$618.00,$842.21,9/16/2024
+291,Food - Snacks,Beef Jerky,$360.89,$73.77,1/31/2024
+292,Food - Baking & Cooking,Almond Flour Tortillas,$85.98,$891.76,9/30/2025
+293,Food - Beverages,Peach Mango Smoothie,$272.43,$339.49,3/23/2025
+294,Kitchen,Insulated Lunch Bag,$540.03,$19.88,2/12/2026
+295,Home,Wall-Mounted Organizer,$428.06,$564.11,1/13/2024
+296,Food - Condiments,Dill Pickle Chips,$142.54,$600.03,3/7/2025
+297,Food - Bakery,Pumpkin Spice Cookies,$897.86,$260.73,7/16/2025
+298,Tools,Cordless Electric Screwdriver,$955.20,$384.46,1/9/2024
+299,Kitchen,Digital Food Thermometer,$841.25,$131.96,3/12/2026
+300,Accessories,Phone Case,$771.23,$954.07,3/15/2025
+301,Kitchen,Digital Food Thermometer,$403.27,$250.96,12/6/2025
+302,Kitchen,Silicone Baking Molds,$353.01,$404.60,3/2/2024
+303,Toys,Magnetic Puzzle Board,$635.57,$629.57,11/19/2024
+304,Kitchen,Cold Brew Coffee Maker,$283.69,$891.25,1/23/2024
+305,Clothing - Tops,Chunky Knit Sweater,$218.36,$735.40,8/25/2024
+306,Food - Baking,Organic Almond Flour,$806.12,$779.50,5/23/2024
+307,Garden,DIY Organic Gardening Kit,$745.02,$413.30,8/12/2025
+308,Beauty,Skincare Fridge,$912.07,$666.90,9/5/2024
+309,Food - Snacks,Honeycrisp Apple Chips,$754.43,$849.25,9/14/2024
+310,Clothing - Outerwear,Leather Biker Jacket,$601.41,$824.69,9/12/2024
+311,Food - Spices,Garam Masala Spice Blend,$472.15,$363.24,4/29/2025
+312,Food - Frozen Foods,Vegetable Lasagna,$722.34,$59.15,6/8/2024
+313,Home,Soft Plush Throw Blanket,$470.37,$367.71,11/21/2024
+314,Food - Breakfast,Flavored Instant Oatmeal,$755.93,$903.07,7/13/2025
+315,Pets,Portable Pet Bathing Tool,$597.77,$935.67,10/25/2024
+316,Electronics,High-Speed HDMI Cable,$210.24,$949.78,5/9/2025
+317,Kitchen,Dish Soap Dispenser,$267.59,$151.72,9/20/2024
+318,Home,Eco-Friendly Cleaning Cloths,$168.03,$142.76,7/22/2025
+319,Clothing - Outerwear,Lightweight Rain Jacket,$919.62,$525.09,3/29/2025
+320,Food - Condiments,Caramel Sauce,$863.30,$300.53,2/19/2025
+321,Food - Prepared Foods,Chickpea Salad,$446.44,$863.12,10/13/2024
+322,Health,Portable UV Sterilizer,$357.78,$314.23,2/1/2025
+323,Accessories,Travel Jewelry Case,$870.08,$42.92,2/21/2026
+324,Food - Condiments,Roasted Garlic,$331.31,$89.01,11/24/2024
+325,Audio,Portable Bluetooth Speaker,$184.06,$703.27,1/8/2026
+326,Office,Desk Lamp with USB Port,$946.43,$438.72,6/5/2024
+327,Accessories,Wireless Earbuds Case,$166.16,$952.84,11/28/2024
+328,Outdoor,Overnight Hiking Backpack,$640.82,$891.33,5/25/2024
+329,Food - Vegetables,Zucchini Noodle Pasta,$141.69,$662.25,9/3/2024
+330,Clothing - Activewear,Graphic Print Leggings,$711.25,$116.42,1/14/2026
+331,Audio,Home Karaoke System,$494.45,$364.07,8/20/2025
+332,Clothing - Activewear,Athletic Sports Bra,$323.61,$31.95,2/3/2025
+333,Food - Canned Goods,Apple Pie Filling,$666.57,$551.23,3/3/2024
+334,Food - Breakfast,Apple Cinnamon Oatmeal,$853.97,$300.02,10/24/2025
+335,Food - Grains,Basmati Rice,$384.06,$783.15,7/11/2025
+336,Food - Condiments,Pesto Genovese,$609.69,$803.47,12/22/2025
+337,Food - Condiments,Tahini,$746.20,$874.05,1/15/2025
+338,Clothing - Tops,V-Neck Sweater,$855.30,$94.65,10/13/2025
+339,Food - Meat Alternatives,Grilled Veggie Burgers,$950.78,$578.36,1/1/2024
+340,Home,Wall-Mounted Organizer,$655.32,$167.49,9/24/2024
+341,Food - Condiments,Apricot Jam,$944.73,$242.06,2/17/2024
+342,Office,Smart LED Desk Lamp,$417.99,$656.83,2/12/2024
+343,Food - Baking,Sooji (Semolina),$421.21,$737.74,12/28/2025
+344,Food - Canned Goods,Creamy Tomato Basil Soup,$837.23,$681.77,4/3/2025
+345,Food - Frozen Foods,Sweet Potato Fries,$810.62,$258.35,11/17/2024
+346,Health,Infrared Thermometer,$654.15,$889.77,9/13/2025
+347,Food - Dairy,Low-Fat Yogurt,$122.11,$853.82,4/24/2025
+348,Food - Canned Goods,Chili Beans in Sauce,$879.89,$673.36,10/22/2025
+349,Toys,Wooden Children's Play Kitchen,$31.03,$71.67,6/23/2024
+350,Food - Confectionery,Caramel Apple Taffy,$938.41,$359.81,2/11/2024
+351,Food - Grains,Mediterranean Couscous,$616.92,$57.69,2/9/2025
+352,Kitchen,Juice Extractor,$764.23,$270.39,5/20/2025
+353,Food - Snacks,Fruit & Nut Trail Mix,$932.39,$526.42,1/31/2024
+354,Food - Canned Goods,Tomato Sauce,$515.58,$921.56,7/9/2024
+355,Food - Seafood,Garlic Butter Shrimp,$36.81,$334.82,10/14/2025
+356,Home,LED Desk Light,$833.23,$901.75,8/21/2025
+357,Food - Baking Goods,Organic Coconut Sugar,$734.39,$189.88,10/14/2024
+358,Accessories,Compact Umbrella,$997.49,$215.33,11/23/2025
+359,Clothing - Footwear,Classic Pumps,$103.57,$925.71,12/28/2025
+360,Clothing - Activewear,Sporty Leggings,$843.57,$243.21,8/23/2025
+361,Fitness,Fitness Mat,$823.39,$638.45,10/4/2025
+362,Outdoor,Camping Tent,$616.57,$223.68,6/29/2024
+363,Outdoor,Bicycle Repair Kit,$896.46,$369.81,6/7/2024
+364,Food - Nuts,Pine Nuts,$661.53,$599.46,6/2/2024
+365,Food - Dairy,Smoked Gouda Cheese,$271.65,$632.21,12/22/2024
+366,Home,Bamboo Bathtub Caddy,$528.42,$30.20,5/30/2024
+367,Food - Frozen Meals,Mini Meatballs,$351.22,$835.60,12/15/2024
+368,Food - Vegetables,Zucchini Noodles,$627.49,$506.19,8/2/2024
+369,Clothing - Footwear,Ankle Boots,$753.46,$556.91,1/29/2025
+370,Food - Salad Toppings,Herb Seasoned Croutons,$776.32,$812.13,9/13/2024
+371,Tools,Multifunctional Pocket Tool,$539.13,$505.43,9/1/2025
+372,Travel,Travel Pillow,$732.63,$177.30,12/2/2024
+373,Food - Snacks,Black Bean Salsa,$532.09,$871.94,4/5/2024
+374,Food - Spices,Savory Italian Herbs,$414.02,$789.90,1/22/2026
+375,Food - Snacks,Nut Mix,$659.37,$761.51,9/14/2024
+376,Kitchen,Heat-Resistant Silicone Mat,$989.84,$787.22,10/12/2024
+377,Electronics,Kids Tablet,$926.36,$492.90,2/21/2024
+378,Photography,Camera Tripod,$561.96,$871.58,1/16/2026
+379,Food - Canned Goods,Classic Beef Chili,$352.46,$873.84,7/17/2024
+380,Kitchen,Multi-Layer Food Steamer,$295.45,$231.67,3/31/2024
+381,Clothing - Activewear,Sporty Leggings,$103.22,$444.58,1/11/2025
+382,Food - Snacks,Peanut Butter Filled Pretzels,$480.01,$69.53,4/3/2025
+383,Home,Decorative LED Neon Sign,$525.30,$46.58,6/24/2024
+384,Home Appliances,Handheld Vacuum,$264.17,$58.14,4/9/2024
+385,Kitchen,Wall-Mounted Spice Rack,$292.23,$503.76,11/19/2025
+386,Home Appliances,Stick Vacuums Cleaner,$243.63,$620.64,8/21/2024
+387,Food - Bakery,Cinnamon Roll Dough,$856.10,$517.35,5/14/2025
+388,Food - Snacks,Caramel Apple Chips,$357.54,$56.37,5/14/2025
+389,Kitchen,Personal Blender with Cups,$485.25,$556.62,1/4/2026
+390,Kitchen,Reusable Coffee Filter,$626.70,$429.05,8/9/2024
+391,Health,Infrared Thermometer,$18.28,$60.41,12/6/2024
+392,Food - Grains,Chia Seeds,$835.04,$876.34,2/16/2025
+393,Food - Beverages,Turmeric Ginger Tea,$607.72,$962.85,3/1/2026
+394,Electronics,Kids' Educational Tablet,$494.66,$621.02,2/16/2026
+395,Kitchen,Electric Milk Frother,$468.57,$547.89,2/11/2024
+396,Books,Coloring Books for Adults,$786.14,$642.96,9/8/2024
+397,Food - Meat Alternatives,Grilled Veggie Burgers,$627.04,$676.16,5/30/2024
+398,Fitness,Fitness Jump Box,$494.71,$552.22,7/27/2025
+399,Home,Wall Decals for Kids,$384.92,$399.22,11/22/2025
+400,Automotive,Car Diagnostic Scanner,$400.73,$901.33,12/30/2024
+401,Kitchen,Cereal Dispenser with Portion Control,$660.67,$917.26,2/28/2024
+402,Food - Dairy,Garlic & Herb Goat Cheese,$95.87,$712.63,2/3/2026
+403,Food - Sauces,Lemon Basil Pasta Sauce,$521.34,$854.18,10/11/2025
+404,Food - Canned Goods,Cinnamon Apple Sauce,$546.49,$471.41,8/21/2024
+405,Travel,Travel Pillow,$931.60,$331.82,7/13/2025
+406,Food - Beverages,Peach Green Tea,$769.20,$344.34,5/27/2024
+407,Pets,Portable Pet Pooper Scooper,$721.01,$547.41,5/4/2025
+408,Food - Meat,Lemon Herb Chicken,$381.61,$557.94,1/15/2025
+409,Clothing - Dresses,Elegant Lace Dress,$548.86,$54.43,1/26/2026
+410,Wearable Tech,Smartwatch,$487.77,$150.55,1/16/2024
+411,Health,Foot Spa Bath Massager,$167.31,$874.35,4/7/2025
+412,Kitchen,Spiralizer,$207.48,$202.85,11/14/2025
+413,Food - Baking,Gluten-Free Biscuits,$958.09,$295.33,10/11/2025
+414,Food - Cereals,Maple Cinnamon Granola,$617.14,$121.07,2/6/2025
+415,Fitness,Fitness Resistance Bands Kit,$637.35,$795.51,9/27/2024
+416,Food - Cereals,Maple Cinnamon Granola,$217.46,$604.79,6/2/2024
+417,Food - Fresh Produce,Vegetable Stir Fry Mix,$819.62,$155.84,7/18/2024
+418,Food - Sauces,Italian Marinara Sauce,$127.99,$312.40,6/16/2024
+419,Food - Salads,Kale Salad Kit,$504.09,$205.01,5/27/2025
+420,Audio,Bluetooth Sleep Headphones,$733.61,$483.61,3/30/2025
+421,Food - Frozen Meals,Mini Meatballs,$404.98,$914.80,3/2/2026
+422,Toys,Toy Building Set,$328.67,$749.46,1/28/2026
+423,Health,Smartphone UV Sanitizer,$550.93,$50.47,9/15/2024
+424,Photography,Smartphone Camera Lens Kit,$370.84,$826.00,4/10/2024
+425,Food - Frozen Vegetables,Buffalo Style Cauliflower Bites,$890.73,$220.38,10/23/2024
+426,Clothing,Sun Protection Clothing,$542.35,$532.57,2/14/2024
+427,Food - Meat,Lemon Dill Chicken Skewers,$110.13,$100.58,1/5/2025
+428,Crafts,DIY Lip Balm Making Kit,$865.06,$730.63,1/22/2024
+429,Office,LED Desk Lamp with USB Charging,$764.96,$35.77,2/13/2025
+430,Food - Beverages,Cucumber Lime Sparkling Water,$339.45,$355.09,7/30/2024
+431,Accessories,Handcrafted Wooden Jewelry Box,$928.22,$41.66,3/3/2026
+432,Food - Prepared Foods,BBQ Jackfruit,$810.74,$676.28,5/29/2025
+433,Health,Mini Air Purifier,$298.90,$34.26,9/6/2025
+434,Electronics,Portable Bluetooth Keyboard,$570.84,$31.95,11/10/2024
+435,Home,Memory Foam Mattress Pad,$93.29,$601.66,2/10/2025
+436,Kitchen,Aeropress Coffee Maker,$530.98,$99.30,2/21/2024
+437,Food - Frozen Desserts,Pistachio Ice Cream,$224.19,$366.91,4/4/2025
+438,Clothing - Tops,Relaxed Fit Henley Shirt,$915.65,$172.25,2/28/2025
+439,Food - Condiments,Avocado Lime Dressing,$213.70,$220.96,3/10/2026
+440,Clothing - Outerwear,Two-Tone Windbreaker,$421.54,$609.20,12/17/2025
+441,Crafts,DIY Candle Kit,$901.67,$54.46,10/10/2025
+442,Food - Snacks,Aged White Cheddar Popcorn,$350.64,$820.07,6/27/2024
+443,Accessories,Handcrafted Wooden Jewelry Box,$19.12,$830.90,4/10/2025
+444,Food - Snacks,Peanut Butter Protein Balls,$664.99,$97.93,6/2/2025
+445,Kitchen,Indoor Grill,$232.33,$415.35,9/12/2024
+446,Food - Condiments,Avocado Oil Mayo,$842.13,$534.79,4/27/2024
+447,Food - Bakery,Gluten-Free Bread,$959.89,$431.04,11/18/2024
+448,Kitchen,Oven Thermometer,$582.88,$892.28,6/2/2024
+449,Food - Snacks,Honey Sesame Cashews,$758.73,$691.07,2/20/2024
+450,Outdoor,Telescope,$549.07,$158.98,11/5/2024
+451,Tools,Cordless Electric Screwdriver,$154.49,$408.61,12/25/2024
+452,Garden,Smart Plant Monitor,$923.49,$677.56,4/16/2025
+453,Food - Baking,Gluten-Free Brownies,$827.55,$51.02,7/26/2025
+454,Food - Condiments,Classic Caesar Dressing,$19.42,$335.00,7/22/2024
+455,Outdoor,Tactical Backpack,$53.43,$912.08,2/20/2026
+456,Food - Dips,Traditional Hummus,$260.86,$128.22,1/17/2026
+457,Food - Condiments,Honey,$655.90,$202.58,3/19/2025
+458,Food - Oils,Herb-Infused Olive Oil,$477.28,$510.04,1/11/2024
+459,Clothing - Dresses,Maxi Wrap Dress,$631.41,$870.97,11/11/2025
+460,Baby,Baby Monitor,$835.05,$339.25,5/21/2024
+461,Food - Baking,Chocolate Mint Cookies,$15.51,$824.34,4/12/2025
+462,Food - Frozen,Coconut Rice,$621.38,$138.90,8/26/2024
+463,Home Improvement,Electric Pressure Washer,$900.82,$744.51,2/3/2026
+464,Food - Frozen,Cheddar & Bacon Potato Skins,$833.19,$423.82,10/1/2025
+465,Food - Dairy,Garlic and Herb Cream Cheese,$691.40,$91.12,12/23/2025
+466,Accessories,Wireless Charging Pad,$887.25,$195.78,4/24/2024
+467,Food - Meal Kits,Pasta Primavera Kit,$243.60,$713.55,11/11/2025
+468,Food - Vegetarian,Baked Falafel,$278.28,$730.11,12/2/2024
+469,Home,Window Blinds,$280.36,$797.55,11/4/2025
+470,Outdoor,Portable Solar Generator,$163.93,$456.47,3/5/2026
+471,Food - Baking,Organic Coconut Flour,$260.74,$511.75,2/11/2026
+472,Food - Frozen Foods,Veggie Lovers Pizza,$545.15,$368.17,9/20/2025
+473,Clothing - Outerwear,Fleece Hoodie,$765.82,$781.57,5/18/2024
+474,Food - Condiments,Orange Ginger Vinaigrette,$298.61,$479.24,5/9/2024
+475,Home Improvement,Electric Pressure Washer,$268.32,$895.11,3/22/2025
+476,Food - Grains,Quinoa,$77.72,$894.05,9/11/2025
+477,Clothing,Winter Knit Beanie,$858.03,$629.81,1/13/2025
+478,Toys,Mini Hand Gesture Drone,$26.60,$430.03,6/13/2024
+479,Home,Mesh Laundry Bags Set,$975.41,$451.97,2/13/2024
+480,Food - Meat,Beef Stew Meat,$877.03,$195.50,6/28/2024
+481,Food - Sauces,Tomato Basil Pasta Sauce,$776.98,$74.61,3/22/2025
+482,Home,Mesh Laundry Bags Set,$498.07,$65.67,1/26/2026
+483,Food - Snacks,Hummus,$798.43,$807.45,3/2/2024
+484,Food - Sides,Mashed Sweet Potatoes,$178.51,$682.30,1/27/2024
+485,Food - Snacks,Crispy Chickpeas,$609.76,$554.60,10/1/2025
+486,Food - Fresh Produce,Organic Baby Carrots,$820.63,$469.31,12/16/2025
+487,Kitchen,Pizza Stone,$919.09,$38.89,5/8/2025
+488,Kitchen,Non-Stick Crepe Pan,$317.91,$654.79,4/9/2025
+489,Pets,Pet Bed with Removable Cover,$395.38,$292.93,7/29/2024
+490,Home,LED Desk Light,$900.28,$966.39,9/27/2025
+491,Home,LED Strip Lights Kit,$436.36,$881.12,6/3/2024
+492,Kitchen,Silicone Baking Molds,$341.25,$810.23,6/19/2025
+493,Accessories,Wireless Charging Pad,$735.83,$446.64,7/21/2024
+494,Pets,Dog Training Whistle,$658.85,$353.16,11/3/2025
+495,Food - Sauces,Italian Marinara Sauce,$352.92,$450.81,3/3/2024
+496,Food - Frozen Meals,Spicy Thai Noodles,$785.11,$635.34,5/2/2025
+497,Food - Snacks,Trail Mix (Deluxe),$345.33,$997.13,12/29/2025
+498,Food - Health/Protein,Vanilla Protein Powder,$705.74,$391.91,2/4/2024
+499,Food - Meat,Andouille Sausage,$369.14,$249.67,12/10/2025
+500,Toys,Puzzle,$482.53,$514.72,7/5/2024
+501,Home,Wall Decals for Kids,$877.68,$438.60,7/14/2025
+502,Food - Salads,Kale & Quinoa Salad Mix,$692.41,$171.50,1/8/2024
+503,Clothing - Jumpsuits,Wrap Jumpsuit,$592.88,$591.10,11/8/2025
+504,Food - Meats,Savory Breakfast Sausage,$207.83,$462.16,3/24/2024
+505,Food - Beverages,Coconut Water,$185.70,$707.53,3/14/2024
+506,Audio,Portable Speaker Stand,$788.20,$452.35,9/14/2025
+507,Food - Snacks,Vegetable Chips,$904.33,$443.89,11/17/2025
+508,Food - Breakfast Foods,Cranberry Pecan Granola,$668.55,$218.65,8/14/2024
+509,Health,Bamboo Toothbrush,$234.26,$140.55,2/6/2026
+510,Food - Condiments,Sweet BBQ Dipping Sauce,$600.63,$83.52,11/21/2024
+511,Outdoor,Window Bird Feeder,$542.59,$357.94,7/19/2025
+512,Food - Breakfast,Maple Oatmeal,$999.44,$349.78,10/6/2025
+513,Toys,Wooden Toy Train Set,$368.69,$283.23,1/13/2025
+514,Clothing - Outerwear,Puffer Winter Coat,$112.41,$564.92,10/17/2025
+515,Food - Snacks,Pretzel Bites,$988.19,$139.76,4/17/2025
+516,Food - Snacks,Almond Butter Cups,$47.15,$492.60,9/30/2025
+517,Food - Produce,Brussels Sprouts,$287.75,$713.41,3/5/2024
+518,Food - Seafood,Lemon Garlic Shrimp,$61.70,$713.67,9/27/2024
+519,Toys,Mini Hand Gesture Drone,$468.80,$381.04,2/21/2026
+520,Food - Baking,Almond Flour Bread Mix,$511.03,$715.72,9/3/2024
+521,Kitchen,Cereal Dispenser with Portion Control,$83.99,$230.44,10/7/2024
+522,Electronics,Digital Voice Recorder,$426.86,$25.81,1/1/2026
+523,Food - Frozen Foods,Pasta Primavera,$992.09,$656.37,5/5/2024
+524,Food - Vegetable,Chilli Lime Corn on the Cob,$303.65,$801.25,10/10/2025
+525,Accessories,Wireless Charging Pad,$505.43,$806.99,11/11/2024
+526,Food - Condiments,Sweet Chili Thai Sauce,$376.48,$206.21,8/17/2024
+527,Outdoor,Hiking Water Bottle with Filter,$558.52,$574.32,6/8/2025
+528,Food - Breakfast,Vanilla Almond Granola,$979.00,$967.49,4/17/2024
+529,Food - Cereal,Nutty Granola Clusters,$414.58,$822.04,1/10/2026
+530,Pets,Dog Frisbee Toy,$76.55,$361.25,5/26/2024
+531,Food - Produce,Zucchini,$426.32,$254.85,7/21/2025
+532,Food - Frozen Foods,Frozen Cauliflower Rice,$823.71,$919.51,10/6/2024
+533,Travel,Travel Orthopedic Pillow,$206.98,$616.71,3/25/2025
+534,Home,LED Desk Light,$75.92,$134.14,4/13/2024
+535,Food - Condiments,Potato Wedge Seasoning,$959.37,$133.76,12/2/2024
+536,Outdoor,Outdoor Camping Hammock,$690.25,$145.96,12/12/2025
+537,Food - Snacks,Honey Roasted Almonds,$40.91,$760.60,2/1/2025
+538,Food - Beverages,Matcha Green Tea Powder,$505.76,$808.11,8/16/2025
+539,Food - Vegetables,Balsamic Glazed Brussels Sprouts,$994.58,$537.03,5/17/2025
+540,Food - Breakfast,Organic Granola Cereal,$194.23,$930.30,1/13/2025
+541,Clothing - Loungewear,Cotton Pajama Set,$702.45,$234.32,5/5/2024
+542,Food - Snacks,Granola Bars,$30.56,$762.73,1/30/2024
+543,Food - Frozen Meals,Spicy Thai Noodles,$472.31,$852.61,9/9/2024
+544,Clothing - Tops,Classic White T-Shirt,$829.20,$801.78,10/10/2025
+545,Food - Grains,White Rice,$686.79,$413.18,6/15/2025
+546,Furniture,Adjustable Bar Stools,$614.08,$740.42,11/4/2025
+547,Garden,Self-Watering Planters,$850.00,$675.44,6/24/2025
+548,Food - Salads,Chipotle Black Bean Salad,$661.73,$524.31,2/3/2025
+549,Home,Microfiber Cleaning Cloths,$986.22,$948.44,12/8/2024
+550,Garden,Self-Watering Planter,$847.05,$199.07,6/7/2025
+551,Food - Bakery,Cinnamon Rolls,$241.39,$220.58,1/22/2026
+552,Clothing,Winter Knit Beanie,$258.50,$778.08,3/27/2025
+553,Food - Canned Goods,Cinnamon Apple Sauce,$680.54,$612.84,3/20/2025
+554,Pets,Adjustable Dog Harness,$261.33,$913.12,10/19/2025
+555,Food - Baking,Sesame Seeds,$931.82,$881.72,11/17/2024
+556,Food - Bakery,Mediterranean Flatbread,$625.51,$684.12,2/8/2026
+557,Food - Sauces,Classic Pesto Sauce,$893.71,$625.76,6/15/2025
+558,Toys,Children's Science Experiment Lab Kit,$944.95,$478.32,9/14/2025
+559,Electronics,Wireless HDMI Transmitter,$613.07,$573.36,9/7/2025
+560,Food - Oils & Vinegars,Lemon Zest Olive Oil,$74.60,$206.62,2/17/2025
+561,Kitchen,Multi-Layer Food Steamer,$754.10,$391.25,1/7/2024
+562,Clothing - Shoes,Chic Ankle Strap Heels,$916.17,$376.70,3/13/2026
+563,Food - Frozen Fruits,Mango Chunks,$174.22,$155.09,2/19/2024
+564,Fitness,Fitness Resistance Bands,$383.92,$99.81,5/6/2024
+565,Photography,Smartphone Tripod with Remote,$218.31,$592.86,9/17/2024
+566,Home,Handheld Garment Steamer,$720.32,$308.65,9/21/2025
+567,Clothing - Outerwear,Belted Trench Coat,$154.29,$166.00,10/17/2025
+568,Home,LED Table Lamp,$226.65,$877.87,3/22/2025
+569,Food - Condiments,Mango Chutney,$240.29,$578.21,1/27/2026
+570,Kitchen,Pasta Maker,$415.36,$195.87,2/24/2026
+571,Fitness,Foldable Yoga Mat Carry Bag,$131.26,$883.21,4/3/2025
+572,Food - Frozen Foods,Sweet Potato Mash,$97.05,$284.75,12/16/2024
+573,Food - Sauces,Vegan Alfredo Sauce,$816.08,$209.93,3/8/2025
+574,Kitchen,Electric Opener for Jars and Bottles,$303.21,$720.77,2/1/2026
+575,Kitchen,Silicone Baking Mat,$112.29,$378.49,1/24/2026
+576,Food - Frozen,Vegetable Korma,$395.03,$34.68,7/26/2024
+577,Home,Electric Wax Warmer,$375.53,$661.55,3/3/2025
+578,Food - Canned Goods,Organic Tomato Soup,$588.96,$521.08,10/7/2025
+579,Pets,Pet Caress Brush,$346.63,$510.19,9/29/2025
+580,Beauty,Nail Polish Set,$366.22,$863.32,3/31/2025
+581,Clothing - Bottoms,Stylish Wide-Leg Trousers,$631.95,$124.21,3/13/2026
+582,Kitchen,Silicone Baking Cups,$506.07,$400.05,10/18/2025
+583,Travel,Lightweight Travel Backpack,$467.61,$108.50,10/5/2024
+584,Outdoor,Window Bird Feeder with Suction Cups,$774.18,$49.11,2/19/2026
+585,Food - Breakfast,Protein Pancake Mix,$44.62,$682.52,6/26/2024
+586,Clothing - Accessories,Knitted Infinity Scarf,$797.55,$286.76,6/1/2025
+587,Food - Frozen Desserts,Chocolate Fudge Ice Cream,$591.04,$888.25,11/5/2025
+588,Food - Prepared Meals,Lentil Vegetable Curry,$39.90,$374.67,9/14/2025
+589,Food - Salads,Harvest Grain Salad,$423.76,$924.59,12/18/2025
+590,Food - Frozen Foods,Berry Smoothie Mix,$889.27,$496.82,8/11/2024
+591,Accessories,Sunglasses,$229.19,$570.40,8/1/2025
+592,Food - Vegetables,Zucchini Noodle Pasta,$208.94,$874.85,8/8/2025
+593,Health,Foot Massager,$446.20,$320.22,8/26/2024
+594,Food - Prepared Meals,Beef Enchilada Casserole,$463.54,$337.76,5/20/2025
+595,Fitness,Insulated Sport Tumbler,$855.95,$891.82,1/16/2024
+596,Health,Rechargeable Electric Toothbrush,$546.29,$431.27,6/15/2025
+597,Food - Frozen Desserts,Cinnamon Ice Cream,$540.38,$384.05,9/25/2024
+598,Kitchen,Electric Kettle with Temperature Control,$442.02,$898.86,1/16/2025
+599,Food - Snacks,Aged White Cheddar Popcorn,$939.13,$79.74,9/26/2024
+600,Pets,Pet Hair Vacuum Cleaner Attachment,$988.94,$439.63,1/5/2024
+601,Kitchen,Siphon Coffee Maker,$152.31,$593.61,11/28/2024
+602,Food - Breakfast,Buttermilk Pancakes,$211.83,$733.61,8/2/2025
+603,Food - Produce,Fresh Cilantro,$15.25,$397.12,11/12/2025
+604,Food - Bakery,Classic Bagels,$255.16,$209.16,5/11/2025
+605,Food - Condiments,Mango Chilli Sauce,$370.33,$59.75,4/6/2025
+606,Fitness,Fruit Infuser Water Bottle,$428.18,$253.89,3/20/2025
+607,Food - Prepared Meals,Spicy Tuna Sushi Kit,$65.77,$581.75,1/13/2025
+608,Food - Snacks,Puffed Rice Cake,$980.54,$123.54,2/25/2024
+609,Clothing - Shirts,Essential White Button-Up,$218.52,$401.39,2/23/2026
+610,Outdoor,Outdoor Adventure Kit,$562.71,$976.14,2/17/2024
+611,Food - Condiments,Tahini,$197.49,$906.46,8/6/2024
+612,Food - Condiments,Apricot Jam,$105.99,$418.05,10/17/2024
+613,Food - Soups,Miso Soup Mix,$309.38,$604.02,1/20/2026
+614,Food - Frozen Desserts,Organic Vanilla Bean Ice Cream,$61.46,$325.22,11/5/2024
+615,Food - Produce,Vegetable Stir-Fry Kit,$261.07,$609.94,1/23/2025
+616,Food - Canned Goods,Peach Slices in Syrup,$288.64,$663.41,7/30/2025
+617,Travel,Travel Laundry Bag,$654.23,$570.19,8/22/2024
+618,Outdoor,Solar String Lights,$998.75,$221.58,1/1/2025
+619,Food - Frozen Foods,Cauliflower Gnocchi,$465.23,$779.51,9/22/2024
+620,Garden,Garden Hoses with Expandable Features,$433.26,$538.14,12/25/2025
+621,Art Supplies,Art Supplies Organizer,$797.98,$836.35,10/30/2024
+622,Audio,Voice-Controlled Speaker,$43.99,$152.16,8/11/2025
+623,Food - Baking,Organic Coconut Flour,$970.77,$612.32,1/12/2026
+624,Food - Canned Goods,Classic Beef Chili,$209.37,$673.97,5/16/2024
+625,Food - Frozen Foods,Nordic Berry Smoothie,$366.87,$843.98,5/12/2025
+626,Food - Dairy Alternatives,Coconut Milk Yogurt,$235.24,$182.75,7/16/2025
+627,Food - Snacks,Chocolate Chip Cliff Bars,$193.80,$149.41,5/25/2025
+628,Clothing,Winter Insulated Jacket,$201.36,$256.69,1/13/2024
+629,Food - Cereals,Maple Cinnamon Granola,$899.90,$969.80,12/1/2025
+630,Food - Beverages,Cranberry Lime Sparkling Water,$42.11,$648.72,10/7/2024
+631,Food - Bakery,Artisan Bread,$446.71,$82.95,8/24/2025
+632,Home,Soft Plush Throw Blanket,$458.01,$482.62,7/1/2024
+633,Home,Digital Thermostat,$983.13,$882.59,4/20/2024
+634,Photography,Camera Lens Cleaning Kit,$94.37,$114.09,9/7/2025
+635,Health,First Aid Kit,$546.52,$432.97,9/1/2024
+636,Outdoor,Collapsible Camping Cup,$895.29,$297.14,3/24/2024
+637,Clothing - Sweaters,Casual Cropped Sweater,$595.17,$372.29,10/5/2024
+638,Food - Freezer,Buffalo Cauliflower Bites,$259.22,$566.12,6/24/2025
+639,Food - Condiments,Pineapple Salsa,$520.08,$75.22,1/10/2026
+640,Food - Desserts,Peanut Butter Chocolate Clusters,$633.37,$917.20,10/3/2025
+641,Food - Condiments,Sweet Chili Sauce,$585.95,$706.61,10/28/2024
+642,Beauty,Electric Nail File Kit,$317.47,$972.49,1/1/2025
+643,Clothing - Outerwear,Fleece Hoodie,$346.53,$176.70,1/4/2026
+644,Bicycles,Bike Helmet,$302.79,$212.47,5/18/2024
+645,Pets,Biodegradable Dog Waste Bags,$847.73,$853.40,2/25/2026
+646,Food - Baking,Vanilla Pudding Mix,$935.41,$452.30,11/15/2025
+647,Home Appliances,Infrared Space Heater,$54.33,$527.39,3/1/2026
+648,Outdoor,Camping Tarp,$36.85,$260.64,5/30/2025
+649,Food - Condiments,Classic BBQ Sauce,$604.60,$327.83,8/5/2025
+650,Outdoor,Air Mattress,$106.27,$604.15,12/31/2024
+651,Kitchen,Pasta Maker,$909.84,$466.95,1/28/2026
+652,Food - Condiments,Almond Butter,$10.68,$577.65,11/4/2025
+653,Home,Freestanding Wine Rack,$795.17,$892.55,11/30/2025
+654,Home,Inspirational Wall Art,$854.37,$805.21,3/18/2024
+655,Clothing - Accessories,Knitted Infinity Scarf,$894.68,$923.59,2/1/2026
+656,Fitness,High-Quality Yoga Mat,$982.65,$166.39,7/6/2024
+657,Pets,Pet Nail Clipper,$255.45,$362.37,7/26/2024
+658,Food - Dressings,Balsamic Vinaigrette,$592.88,$307.20,9/29/2024
+659,Garden,Adjustable Garden Rake,$840.92,$26.77,9/2/2024
+660,Art Supplies,Tattoo Kit,$373.25,$85.25,7/9/2025
+661,Office,Portable Laptop Table,$15.12,$559.35,7/30/2025
+662,Food - Spreads,Natural Peanut Butter,$394.12,$34.05,10/26/2025
+663,Pets,Pet Travel Backpack Carrier,$236.01,$868.47,5/31/2025
+664,Food - Breakfast,Cranberry Almond Granola,$958.94,$111.66,4/17/2024
+665,Food - Prepared Foods,Chicken Salad Kit,$48.54,$97.59,4/18/2025
+666,Food - Bakery,Peanut Butter Cookies,$886.50,$210.08,4/24/2025
+667,Food - Frozen Foods,Roasted Vegetable Medley,$607.51,$784.52,2/12/2024
+668,Kitchen,Waffle Maker,$881.12,$628.96,3/19/2025
+669,Food - Produce,Brussels Sprouts,$916.78,$926.06,8/18/2025
+670,Food - Snacks,Almond Crunch Granola Bars,$655.50,$308.42,4/20/2024
+671,Food - Frozen Foods,Cauliflower Rice Stir-Fry,$58.32,$195.62,12/22/2025
+672,Audio,Noise-Canceling Headphones,$963.26,$547.32,7/5/2025
+673,Clothing - Jumpsuits,Chic Jumpsuit,$783.78,$506.26,3/2/2025
+674,Food - Condiments,Sweet BBQ Dipping Sauce,$136.84,$481.21,6/20/2024
+675,Food - Condiments,Spicy Kimchi,$500.50,$890.74,9/20/2025
+676,Food - Canned Goods,Peach Slices in Syrup,$34.39,$571.91,2/10/2024
+677,Kitchen,Instant Pot,$741.53,$864.96,10/21/2025
+678,Outdoor,Camping Tent,$685.68,$367.46,5/26/2025
+679,Food - Salads,Kale and Quinoa Salad,$341.39,$993.84,8/12/2024
+680,Food - Produce,Grapes (red),$674.67,$563.84,9/22/2024
+681,Food - Beverages,Kombucha Drink,$641.41,$611.23,4/23/2024
+682,Audio,Portable Speakers,$490.12,$457.30,6/19/2024
+683,Kitchen,Electric Opener for Jars and Bottles,$512.02,$521.54,7/12/2025
+684,Health,Ice Pack,$695.51,$290.35,7/25/2025
+685,Kitchen,Mini Waffle Maker,$484.45,$689.35,6/6/2025
+686,Food - Prepared Meals,Buffalo Chicken Wraps,$23.29,$125.58,12/28/2025
+687,Clothing - Outerwear,Lightweight Rain Jacket,$54.28,$971.78,4/1/2024
+688,Food - Breakfast,Granola,$352.68,$780.08,9/11/2025
+689,Kitchen,Mini Electric Kettle,$234.22,$370.10,2/9/2025
+690,Food - Grains,Wild Rice & Quinoa Mix,$437.64,$681.99,4/8/2025
+691,Food - Condiments,Lemon Garlic Marinade,$956.74,$901.77,12/30/2024
+692,Home,Shower Curtain Hooks,$923.55,$505.66,5/10/2025
+693,Toys,Magnetic Puzzle Board,$654.84,$930.30,4/20/2024
+694,Books,Customizable Photo Calendar,$367.02,$469.44,5/11/2025
+695,Food - Bakery,Vegan chocolate chip cookies,$948.56,$33.72,3/10/2024
+696,Food - Frozen Foods,Frozen Edamame,$593.12,$120.10,11/28/2025
+697,Fitness,Fitness Mat,$241.45,$988.55,3/14/2024
+698,Food - Snacks,Organic Cereal Bars,$192.58,$524.80,3/7/2025
+699,Food - Frozen Foods,Coconut Curry Chicken,$209.58,$417.46,3/10/2024
+700,Health,Foot Massager,$137.44,$907.26,1/31/2024
+701,Kitchen,Coffee Making Kit,$136.68,$595.35,3/5/2025
+702,Automotive,Wireless Car Charger,$72.59,$406.62,3/13/2025
+703,Food - Meat,Ground Turkey,$964.52,$286.97,1/16/2026
+704,Food - Dairy,Sliced Cheese,$27.74,$776.34,8/1/2025
+705,Food - Baking,Granulated Sugar,$351.75,$637.34,10/19/2025
+706,Food - Frozen Fruits,Mango Chunks,$411.98,$203.36,9/14/2025
+707,Kitchen,Magnetic Spice Containers,$974.98,$439.64,1/27/2025
+708,Food - Frozen Foods,Teriyaki Chicken Stir-Fry,$287.36,$510.62,3/20/2024
+709,Food - Meat,Lemon Herb Grilled Chicken,$883.13,$544.47,9/21/2025
+710,Home,Microfiber Cleaning Cloth Set,$691.02,$436.47,3/4/2024
+711,Home,Woven Storage Baskets,$87.32,$90.07,4/6/2024
+712,Food - Condiments,Pineapple Salsa,$985.33,$516.00,8/25/2024
+713,Food - Canned Goods,Tuscan Bean Soup,$269.61,$782.15,5/7/2024
+714,Food - Dips,Peach Salsa,$58.85,$386.61,11/25/2025
+715,Food - Baking,Organic Coconut Flakes,$279.62,$184.08,3/10/2024
+716,Food - Sides,Instant Mashed Potatoes,$768.67,$135.66,8/31/2024
+717,Food - Snacks,Sweet Potato Chips,$630.92,$686.65,3/22/2024
+718,Food - Dairy,Feta Cheese Crumbles,$98.69,$988.23,1/1/2025
+719,Home Appliances,Mini Cordless Vacuum Cleaner,$102.46,$283.22,4/15/2024
+720,Garden,Set of Herb Garden Markers,$604.11,$728.26,1/30/2025
+721,Pets,Cat Scratching Post with Toys,$496.39,$382.94,4/6/2024
+722,Clothing - Jumpsuits,Wrap Jumpsuit,$115.82,$449.41,6/20/2024
+723,Baby,Multifunctional Baby Bottle Warmer,$615.47,$858.95,7/28/2025
+724,Food - Frozen Foods,Vegetable Pizza Rolls,$538.30,$289.65,7/11/2024
+725,Food - Dairy Alternatives,Coconut Cashew Yogurt,$477.78,$304.19,2/17/2025
+726,Accessories,Magnet Travel Fridge Magnets,$93.89,$696.43,10/20/2025
+727,Food - Snacks,Flavored Popcorn Mix,$967.32,$926.28,11/13/2025
+728,Toys,Children's Musical Instrument Set,$440.67,$224.48,6/21/2025
+729,Food - Meat Alternatives,Tofu,$154.70,$899.11,8/24/2024
+730,Accessories,Interchangeable Watch Bands,$524.44,$473.38,6/17/2025
+731,Clothing - Pants,Slim Fit Chinos,$800.17,$479.89,10/9/2024
+732,Home,Scented Candle Set,$479.71,$365.91,12/3/2025
+733,Travel,Overnight Duffle Bag,$322.09,$291.77,4/10/2025
+734,Outdoor,Compact Pop-Up Tent,$252.92,$721.85,2/6/2024
+735,Pets,Collapsible Pet Dog Bowl,$450.26,$344.21,1/7/2025
+736,Computers,USB-C Hub,$188.45,$607.29,10/7/2025
+737,Pets,Pet Travel Backpack Carrier,$950.99,$435.77,3/17/2025
+738,Food - Snacks,Chocolate Chip Energy Balls,$729.45,$104.71,2/15/2026
+739,Home,Shoe Organizer,$31.29,$764.03,11/29/2025
+740,Kitchen,Magnetic Spice Containers,$881.31,$699.17,1/6/2025
+741,Fitness,Adjustable Skipping Rope,$938.43,$695.75,9/9/2024
+742,Food - Canned Goods,Chili Beans in Sauce,$722.76,$243.60,1/30/2024
+743,Accessories,Wireless Earbud Silicone Covers,$99.64,$185.06,9/18/2024
+744,Kitchen,High-Speed Blender,$536.02,$261.69,1/23/2025
+745,Office,Computer Monitor Stand,$787.15,$806.77,3/12/2026
+746,Food - Bakery,Whole Wheat Bread,$860.18,$923.50,11/9/2025
+747,Smart Home,Smart Thermostat with Wi-Fi,$344.15,$925.08,2/20/2025
+748,Food - Produce,Organic Fruit Salad,$997.70,$638.57,3/14/2026
+749,Food - Snacks,Oven-Baked Potato Chips,$363.28,$723.54,1/26/2024
+750,Food - Nuts,Sunflower Seeds,$768.10,$585.51,1/16/2024
+751,Kitchen,Magnetic Spice Containers,$74.59,$386.91,11/7/2024
+752,Health,Smartphone UV Sanitizer,$761.26,$271.51,1/8/2024
+753,Home,Inspirational Wall Art,$340.48,$747.18,1/21/2025
+754,Food - Breakfast,Whole Grain Cereal,$543.55,$850.62,5/23/2024
+755,Kitchen,Non-Stick Baking Sheets,$870.05,$185.30,3/10/2024
+756,Garden,Watering Can with Nozzle,$658.04,$825.49,4/15/2025
+757,Food - Frozen Foods,Vegetarian Pizza,$216.51,$105.28,5/12/2025
+758,Electronics,Smartphone Photography Tripod,$613.94,$301.72,4/11/2025
+759,Food - Deli,Balsamic Salad Dressing,$906.66,$388.79,1/22/2024
+760,Outdoor,Outdoor Camping Hammock,$460.30,$717.66,10/1/2025
+761,Food - Breakfast,Organic Whole Grain Oats,$325.07,$666.40,2/26/2024
+762,Food - Condiments,Maple Syrup,$310.21,$125.34,1/4/2026
+763,Toys,Wooden Blocks,$410.28,$386.46,9/13/2025
+764,Food - Produce,Organic Baby Spinach,$414.45,$309.86,10/31/2025
+765,Food - Dried Fruits,Californian Raisins,$525.29,$493.17,3/27/2024
+766,Clothing - Outerwear,Cable Knit Cardigan,$691.66,$136.82,2/13/2024
+767,Toys,Children's Educational Puzzle,$419.77,$291.04,2/1/2025
+768,Food - Condiments,Thai Coconut Curry Sauce,$241.56,$284.91,2/9/2026
+769,Garden,Self-Watering Planters,$50.90,$21.04,8/28/2025
+770,Food - Canned Goods,Tuscan Bean Soup,$430.85,$663.32,1/23/2026
+771,Food - Bakery,French Bread,$913.79,$115.77,12/7/2024
+772,Clothing - Outerwear,Fleece Hoodie,$213.06,$102.87,1/4/2024
+773,Kitchen,Salt and Pepper Grinder Set,$290.12,$371.36,10/6/2024
+774,Garden,Mini Indoor Herb Garden Kit,$211.42,$29.50,3/29/2025
+775,Food - Bakery,Jalapeño Cornbread,$657.72,$632.77,6/3/2024
+776,Pets,Pet Reflective Vest,$991.37,$604.54,6/3/2025
+777,Food - Snacks,Maple Bacon Potato Chips,$639.51,$84.23,7/21/2024
+778,Health,Infrared Thermometer Gun,$404.69,$676.47,2/19/2026
+779,Outdoor,Telescope,$799.44,$249.23,1/2/2025
+780,Food - Oils,Herb-Infused Olive Oil,$92.42,$928.10,12/23/2025
+781,Health,Deep Tissue Massage Gun,$425.51,$627.10,2/23/2026
+782,Food - Jams & Jellies,Strawberry Fruit Spread,$830.41,$609.33,2/3/2025
+783,Food - Dips,Hot Salsa,$289.12,$178.49,10/1/2025
+784,Outdoor,Camping Chair,$603.14,$38.51,9/11/2025
+785,Food - Soups,Black Bean Soup,$363.59,$439.07,11/28/2024
+786,Outdoor,Magnetic Screen Door,$224.35,$742.57,5/31/2025
+787,Food - Meat,Turkey Bacon,$375.56,$529.97,1/18/2025
+788,Food - Sauces,Tomato Basil Pasta Sauce,$978.56,$405.69,5/27/2024
+789,Food - Snacks,Honey Almond Granola Bars,$612.56,$836.45,1/23/2025
+790,Clothing - Footwear,Slingback Sandals,$122.40,$600.71,2/6/2024
+791,Food - Condiments,Indian Curry Sauce,$150.99,$735.38,5/1/2024
+792,Kitchen,Electric Food Slicer,$368.98,$884.52,4/11/2025
+793,Kitchen,Kitchen Scale,$762.06,$708.27,6/7/2025
+794,Fitness,Jump Rope with Counter,$901.85,$827.50,7/12/2024
+795,Clothing - Tops,V-Neck Sweater,$848.14,$180.76,10/19/2025
+796,Food - Marinades,Garlic Herb Marinade,$388.01,$995.10,7/21/2025
+797,Food - Bakery,Cinnamon Raisin Bagels,$779.34,$589.94,11/15/2024
+798,Food - Meat,Spicy Chicken Wings,$522.97,$572.09,1/14/2026
+799,Food - Bakery,Rustic Italian Bread,$252.00,$59.38,12/7/2025
+800,Pets,Portable Pet Pooper Scooper,$681.32,$574.70,10/19/2024
+801,Health,Foot Massager Machine,$762.32,$168.08,4/7/2024
+802,Fitness,Stainless Steel Water Bottle,$582.53,$839.65,9/5/2024
+803,Food - Beverages,Ginger Turmeric Shots,$574.95,$71.59,7/25/2025
+804,Fitness,Fitbit Activity Tracker,$79.44,$413.90,6/19/2024
+805,Home,Wire Shelving Unit,$134.72,$869.42,7/7/2024
+806,Outdoor,Camping Chair with Cooler,$198.05,$475.91,1/25/2024
+807,Food - Condiments,Sun-Dried Tomato Pesto,$355.70,$690.19,8/2/2024
+808,Food - Canned Goods,Vegetarian Chili,$438.99,$883.31,5/7/2024
+809,Clothing - Coats,Faux Fur Coat,$857.73,$801.93,12/27/2024
+810,Pets,Adjustable Pet Grooming Table,$537.04,$842.35,1/8/2025
+811,Clothing - Pants,Utility Cargo Pants,$88.11,$64.02,8/27/2025
+812,Food - Grains,Brown Rice,$335.63,$869.64,9/18/2024
+813,Food - Meal Kits,Beef Stroganoff Mix,$414.16,$538.74,4/6/2025
+814,Food - Canned Goods,Sweet Corn,$45.84,$478.06,3/20/2025
+815,Clothing - Shirts,Essential White Button-Up,$895.44,$703.72,8/31/2025
+816,Kitchen,Waffle Maker,$672.70,$372.84,12/12/2025
+817,Kitchen,Collapsible Colander,$707.37,$406.33,8/20/2025
+818,Home,Fall-Themed Table Runner,$301.68,$172.56,10/20/2025
+819,Food - Condiments,Spicy Salsa Verde,$749.40,$588.81,6/26/2024
+820,Crafts,DIY Lip Balm Kit,$570.00,$723.43,2/28/2026
+821,Food - Sauces,Roasted Garlic Pasta Sauce,$289.72,$754.09,5/12/2024
+822,Home,Cotton Quilted Throw Blanket,$55.20,$663.91,12/9/2025
+823,Food - Frozen,Strawberry Banana Smoothie Pack,$172.09,$113.93,7/31/2024
+824,Gaming,Wireless Game Controller,$313.91,$454.16,12/23/2024
+825,Food - Frozen,Strawberry Banana Smoothie Pack,$379.67,$668.19,5/25/2025
+826,Food - Snacks,Taro Chips,$34.00,$758.69,5/2/2025
+827,Clothing - Tops,Warm Wool Sweater,$424.31,$668.14,8/31/2024
+828,Food - Baking Goods,Baking Powder,$651.20,$142.36,1/31/2026
+829,Kitchen,Coffee Making Kit,$546.37,$993.34,2/26/2024
+830,Food - Dairy Alternatives,Coconut Yogurt,$686.17,$631.60,3/24/2024
+831,Food - Spices,Paprika,$121.31,$659.64,12/26/2025
+832,Wearable Tech,Fitness Smartwatch,$132.78,$477.45,3/16/2025
+833,Food - Dairy,Greek Feta Cheese,$94.54,$952.97,12/8/2025
+834,Health,Ice Pack,$264.30,$673.96,7/22/2025
+835,Accessories,Portable Phone Charger,$758.37,$491.68,2/9/2026
+836,Food - Vegetable,Chilli Lime Corn on the Cob,$556.05,$355.55,2/27/2025
+837,Health,Essential Oil Diffuser,$347.78,$53.61,4/19/2025
+838,Food - Seafood,Lemon Dill Salmon,$702.62,$41.28,3/3/2025
+839,Clothing - Tops,V-Neck Sweater,$200.10,$191.77,12/2/2024
+840,Food - Salads,Pear and Gorgonzola Salad,$645.49,$891.06,6/5/2024
+841,Kitchen,Ceramic Non-Stick Frying Pan,$847.88,$927.10,8/3/2025
+842,Food - Vegetables,Marinated Artichokes,$452.22,$464.53,2/2/2025
+843,Food - Breakfast,Toasted Coconut Granola,$519.69,$27.81,8/9/2025
+844,Food - Meat,Honey BBQ Riblets,$631.76,$166.06,8/30/2025
+845,Food - Meat,Maple Breakfast Sausage,$895.21,$654.46,3/7/2024
+846,Food - Condiments,Tomatillo Salsa,$180.92,$101.11,4/7/2025
+847,Food - Condiments,Chocolate Syrup,$605.48,$52.03,1/12/2026
+848,Food - Salads,Kale Salad with Lemon Dressing,$251.18,$525.12,2/2/2024
+849,Food - Frozen Foods,Sweet Potato Tots,$542.56,$431.82,3/23/2024
+850,Food - Bakery,Almond Flour Cookies,$785.32,$942.38,1/21/2025
+851,Food - Frozen Foods,Barbecue Chicken Pizza,$317.49,$465.36,4/2/2025
+852,Food - Produce,Sliced Avocado,$454.59,$161.70,8/13/2024
+853,Fitness,Smart Water Bottle,$672.28,$429.04,10/10/2024
+854,Food - Snacks,Dark Chocolate Raisins,$65.31,$795.42,1/16/2024
+855,Food - Breakfast,Maple Pecan Granola,$798.69,$837.82,11/17/2025
+856,Food - Frozen Foods,Crispy Onion Rings,$672.80,$57.65,12/5/2025
+857,Electronics,Wireless Wi-Fi Extender,$214.76,$175.42,1/22/2024
+858,Food - Baking,Chocolate Chip Cookie Dough,$157.57,$196.33,11/21/2024
+859,Food - Meat,Beef Stew Meat,$491.71,$942.32,12/14/2025
+860,Outdoor,Portable Camping Shower,$879.46,$969.28,9/11/2024
+861,Fitness,Fitness Tracker Band,$770.23,$985.31,1/20/2024
+862,Food - Prepared Meals,Teriyaki Tofu Stir-Fry,$572.67,$392.99,4/3/2024
+863,Automotive,Motorcycle Phone Mount,$720.77,$185.50,9/13/2024
+864,Fitness,Luxury Yoga Mat,$227.37,$848.08,10/8/2025
+865,Food - Breakfast Foods,Almond Coconut Granola,$787.20,$326.88,1/12/2025
+866,Outdoor,Fishing Tackle Box,$783.98,$688.11,10/12/2025
+867,Clothing - Bottoms,Linen Trousers,$252.53,$488.81,3/14/2025
+868,Home,Decorative Throw Blanket,$423.57,$703.32,12/16/2024
+869,Food - Canned Goods,Coconut Curry Lentils,$579.60,$999.57,1/12/2026
+870,Outdoor,Portable Charcoal Grill,$149.24,$465.01,1/24/2025
+871,Home,Bamboo Memory Foam Pillow,$707.30,$909.58,6/6/2024
+872,Food - Beverages,Raspberry Limeade,$933.05,$282.82,11/30/2024
+873,Kitchen,Stainless Steel Cutlery Set,$126.21,$364.79,12/28/2025
+874,Pets,LED Flashing Pet Collar,$471.26,$276.57,8/16/2024
+875,Fitness,Fitbit Activity Tracker,$525.16,$313.17,6/11/2024
+876,Food - Condiments,French Onion Dip,$866.21,$829.08,12/8/2025
+877,Electronics,Kids' Learning Tablet,$153.04,$684.15,7/3/2025
+878,Kitchen,Heart-Shaped Baking Molds,$176.40,$306.53,2/10/2025
+879,Kitchen,Herbal Tea Infuser,$841.42,$513.68,7/26/2024
+880,Outdoor,Lightweight Backpacking Tent,$492.84,$428.07,9/8/2024
+881,Kitchen,Ceramic Knife Set,$370.87,$760.27,11/13/2025
+882,Food - Baking,Sooji (Semolina),$253.19,$200.18,2/18/2024
+883,Food - Bakery,Cinnamon Sugar Donuts,$956.08,$114.23,3/5/2025
+884,Accessories,Laptop Backpack,$187.30,$795.09,1/1/2026
+885,Food - Meat,Spicy Chicken Wings,$913.90,$449.02,4/23/2025
+886,Food - Nuts,Garlic Parmesan Roasted Nuts,$616.02,$52.71,11/10/2025
+887,Food - Snacks,Peanut Butter Protein Balls,$585.67,$42.93,9/4/2025
+888,Outdoor,Travel Beach Blanket,$421.65,$377.89,1/16/2025
+889,Clothing - Bags,Leather Crossbody Bag,$256.57,$887.45,8/1/2025
+890,Food - Canned Goods,Lentil Soup (canned),$342.73,$606.09,4/8/2025
+891,Food - Condiments,Spicy BBQ Sauce,$160.17,$356.19,9/25/2025
+892,Food - Meat,Beef Stew Meat,$26.20,$654.75,4/7/2024
+893,Food - Salads,Harvest Grain Salad,$235.84,$79.09,3/30/2025
+894,Clothing - Accessories,Cable Knit Beanie,$909.24,$199.92,7/5/2024
+895,Kitchen,Air Fryer,$761.55,$453.76,3/9/2025
+896,Food - Dairy,Hummus Variety Pack,$174.86,$234.91,7/12/2024
+897,Books,Handmade Leather Journal,$769.42,$151.83,11/16/2025
+898,Food - Snacks,Maple Cinnamon Granola Bars,$144.72,$344.94,7/31/2024
+899,Clothing - Skirts,Printed Maxi Skirt,$937.14,$269.37,4/4/2025
+900,Audio,Portable Bluetooth Headphones,$173.60,$218.26,5/10/2024
+901,Food - Prepared Meals,Buffalo Chicken Wraps,$641.17,$979.54,8/1/2024
+902,Food - Snacks,Chocolate Peanut Butter Cups,$662.50,$128.11,8/23/2025
+903,Food - Baking,Blueberry Muffin Mix,$414.85,$578.05,12/10/2024
+904,Clothing - Bottoms,Stylish Wide-Leg Trousers,$858.72,$759.88,1/23/2025
+905,Outdoor,Reclining Camping Chair,$829.90,$395.56,8/30/2025
+906,Outdoor,Stainless Steel BBQ Grill Set,$133.74,$924.86,2/17/2024
+907,Outdoor,Folding Backpack Chair,$304.46,$132.11,2/19/2025
+908,Food - Canned Goods,Tomato Basil Soup,$325.68,$894.62,4/9/2024
+909,Food - Canned Goods,Chili Beans in Sauce,$683.22,$189.02,1/6/2026
+910,Home Appliances,Portable Air Conditioner,$779.65,$162.35,12/25/2025
+911,Food - Produce,Brussels Sprouts,$623.10,$61.75,7/30/2024
+912,Pets,Dog Collar,$911.04,$23.92,5/11/2024
+913,Food - Dips,Sweet Pea Hummus,$139.34,$496.85,3/14/2024
+914,Travel,Travel Pillow with Memory Foam,$420.70,$209.55,10/23/2024
+915,Food - Snacks,Dark Chocolate Covered Pretzels,$617.97,$420.36,11/13/2025
+916,Food - Snacks,Almond Crunch Granola Bars,$904.14,$167.26,4/5/2024
+917,Art Supplies,Digital Drawing Tablet,$297.07,$497.05,12/12/2025
+918,Food - Condiments,Bock Beer Mustard,$864.46,$788.03,7/29/2024
+919,Office,Customizable Name Plate,$549.78,$592.02,4/25/2025
+920,Food - Nuts,Sunflower Seeds,$950.24,$611.51,12/21/2024
+921,Music,Electronic Drum Kit,$571.05,$573.02,8/30/2025
+922,Kitchen,Stainless Steel Mixing Bowls,$340.97,$735.48,10/12/2025
+923,Kitchen,Stainless Steel Travel Mug,$807.92,$471.15,8/10/2024
+924,Food - Dairy Alternatives,Vegan Cheese,$585.32,$258.50,1/13/2025
+925,Food - Baking,Samoas Cookie Mix,$868.38,$861.48,1/22/2024
+926,Food - Frozen Vegetables,Oven-Baked Parmesan Zucchini,$736.77,$856.34,1/6/2024
+927,Food - Spices,Garam Masala Spice Blend,$555.68,$720.69,10/6/2024
+928,Food - Breakfast,Whole Grain Cereal,$939.70,$630.87,9/5/2024
+929,Pets,Pet Carrier,$561.67,$40.34,10/20/2024
+930,Fitness,Protein Powder,$169.85,$641.51,8/15/2024
+931,Kitchen,Dish Rack,$232.57,$752.93,3/29/2024
+932,Outdoor,Camping Lantern,$207.47,$833.59,10/21/2024
+933,Kitchen,Oven Thermometer,$322.03,$324.46,7/28/2024
+934,Food - Vegetables,Marinated Artichokes,$79.07,$468.80,5/10/2025
+935,Food - Snacks,Almond Butter Granola Bars,$384.83,$319.57,6/29/2025
+936,Food - Baking,Chocolate Fudge Brownie Mix,$318.04,$322.59,3/3/2024
+937,Food - Baking,Vegan Chocolate Cake Mix,$199.57,$321.54,8/31/2024
+938,Outdoor,Foldable Picnic Table,$678.74,$421.96,5/4/2025
+939,Home,Set of Decorative Storage Bins,$177.76,$393.03,8/19/2024
+940,Food - Cereals,Raisin Cinnamon Granola,$59.85,$400.44,3/30/2025
+941,Home,USB Desk Fan,$298.21,$458.62,5/6/2025
+942,Fitness,Foam Roller for Muscle Recovery,$895.14,$699.09,1/31/2025
+943,Garden,Potting Soil,$717.76,$145.17,4/4/2024
+944,Food - Frozen Foods,Teriyaki Chicken Stir-Fry,$849.25,$33.40,7/1/2025
+945,Travel,Compressible Packing Cubes,$156.51,$185.83,10/3/2025
+946,Food - Condiments,Sweet BBQ Dipping Sauce,$711.68,$583.01,11/16/2024
+947,Health,Electric Toothbrush Holder,$153.88,$344.32,4/17/2024
+948,Garden,Plant Growing Kit,$645.49,$157.31,4/7/2024
+949,Home,Collapsible Storage Crates,$458.26,$564.83,9/15/2025
+950,Fitness,Smart Water Bottle,$903.60,$27.18,2/11/2025
+951,Food - Canned Goods,Classic Chicken Noodle Soup,$171.84,$417.87,11/26/2024
+952,Food - Meat,Honey BBQ Riblets,$574.10,$982.69,7/21/2024
+953,Food - Frozen Foods,Crispy Potato Tots,$895.67,$569.98,6/27/2025
+954,Outdoor,Outdoor Folding Table,$144.44,$27.10,8/5/2025
+955,Food - Snacks,Granola Bars,$184.16,$127.52,1/16/2025
+956,Toys,Nature Explorer Lens Kit,$999.98,$568.42,1/26/2024
+957,Kitchen,Tea Infuser,$331.35,$274.59,2/18/2026
+958,Food - Prepared Foods,Pesto Pasta Salad,$980.18,$440.61,11/1/2024
+959,Pets,Portable Pet Stroller,$635.09,$509.44,5/26/2024
+960,Accessories,Travel Jewelry Case,$411.99,$902.09,5/31/2025
+961,Clothing - Tops,Vintage Graphic Tee,$38.91,$769.27,12/1/2025
+962,Clothing - Activewear,Sporty Leggings,$225.22,$434.31,2/18/2025
+963,Food - Beverages,Matcha Green Tea Powder,$661.80,$195.14,10/13/2025
+964,Food - Snacks,Kale Chips,$469.12,$39.24,12/3/2025
+965,Food - Cereal,Honey Nut Cheerios,$516.13,$18.46,2/14/2024
+966,Food - Dairy,Cream Cheese,$506.49,$839.56,8/31/2025
+967,Audio,Over-Ear Headphones,$745.29,$475.08,5/5/2024
+968,Beauty,Body Wash,$238.05,$349.53,8/9/2025
+969,Home,Eco-Friendly Cleaning Cloths,$903.03,$89.49,11/20/2024
+970,Food - Snacks,Maple Cinnamon Granola Bars,$265.00,$264.41,10/29/2025
+971,Smart Home,Wireless Smart Plug,$281.71,$609.39,1/8/2024
+972,Food - Condiments,Habanero Hot Sauce,$826.75,$508.28,2/18/2024
+973,Automotive,Motorcycle Phone Mount,$977.61,$990.85,3/23/2025
+974,Food - Spreads,Natural Peanut Butter,$173.06,$561.93,1/12/2025
+975,Health,Smartphone UV Sanitizer,$818.51,$778.86,9/7/2024
+976,Home,Digital Photo Frame,$500.56,$279.17,12/2/2025
+977,Office,Adjustable Laptop Desk,$783.27,$250.06,11/14/2025
+978,Food - Condiments,Honey Mustard Dip,$115.73,$559.55,12/23/2025
+979,Kitchen,Pasta Portion Control Measure,$103.82,$325.69,3/1/2025
+980,Footwear,Men's Waterproof Hiking Boots,$703.79,$418.05,10/25/2024
+981,Food - Snacks,Oven-Baked Cheese Crisps,$737.46,$955.12,9/20/2025
+982,Outdoor,Solar String Lights,$834.67,$413.14,7/3/2025
+983,Food - Condiments,Buffalo Sauce,$467.34,$657.63,11/29/2025
+984,Pets,Pet Hair Removal Roller,$830.50,$14.68,1/8/2026
+985,Home,Handheld Garment Steamer,$190.96,$185.53,10/31/2025
+986,Kitchen,Magnetic Spice Containers,$649.50,$843.40,11/12/2025
+987,Clothing - Footwear,Slingback Sandals,$830.98,$394.66,12/13/2025
+988,Food - Dips,Buffalo Chicken Dip,$594.60,$996.55,6/21/2025
+989,Food - Snacks,Honey Graham Crackers,$686.08,$184.63,8/25/2024
+990,Food - Beverages,Fruit Medley Juice,$582.12,$612.76,9/28/2024
+991,Food - Bakery,Cinnamon Raisin Bread,$462.46,$413.57,3/3/2025
+992,Kitchen,Instant Pot,$910.28,$500.72,1/1/2024
+993,Food - Marinades,Caribbean Jerk Marinade,$470.05,$455.89,11/12/2025
+994,Home,Animal Paw Print Soap Dispenser,$46.16,$274.69,7/31/2025
+995,Food - Frozen Foods,Vegetable Pizza Rolls,$709.53,$165.59,7/25/2024
+996,Food - Frozen Foods,Fried Rice,$107.90,$176.83,3/3/2025
+997,Audio,Water-Resistant Bluetooth Speaker,$196.29,$354.34,7/14/2024
+998,Clothing - Tops,Vintage Graphic Tee,$946.65,$192.14,7/30/2025
+999,Clothing - Activewear,Athletic Sports Bra,$372.43,$830.17,2/4/2026
+1000,Outdoor,Overnight Hiking Backpack,$633.64,$358.34,5/2/2025
